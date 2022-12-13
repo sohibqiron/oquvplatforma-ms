@@ -1,0 +1,2 @@
+# oquvplatforma-ms
+Studentlar uchun
